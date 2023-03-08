@@ -45,13 +45,13 @@ Sim, **esperamos que você faça um modelo razoável**, mas não "frite" os neur
 
 ## 1.5 Requisitos mínimos
 
-Para realizar o desafio, você precisa cumprir os seguintes requisitos:
-
+Para realizar o desafio, você precisa **cumprir os seguintes requisitos**:
 
 1. **Linguagem de programação 100% Python**
-1. Escolha da IDE: livre escolha. Pode usar Jupyter, VSCode, Pycharm...
-1. Baixar os dados pelo link enviado no seu email e que também estão contidos na seção 2.2
-1. Apresentação em formato ppt
+1. Escolha da IDE: VSCode ou Pycharm (não aceitaremos os códigos em formato *.ipynb - Jupyter Notebook)
+2. Escolha do git: github
+3. Baixar os dados pelo link enviado no seu email e que também estão contidos na seção 2.2
+4. Apresentação em formato PowerPoint
 
 
 ## 1.6 Entregáveis, Prazos e Submissão final
