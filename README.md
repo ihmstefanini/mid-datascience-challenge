@@ -18,7 +18,7 @@ O desafio se divide nas seguintes etapas:
 1. Desenvolvimento do desafio (analisar, explorar e modelar os dados)
 1. Criar uma apresentação em formato PowerPoint
 1. Submeter o(s) código(s) e o arquivo da apresentação ao mesmo repositório*(maiores detalhes vide seção 1.6)
-1. Informar pelo email eduardo.magalhaes@ihm.com.br que você concluiu o desafio
+1. Informar pelo email leonardo.oliveira@ihm.com.br e alexsander.costa@ihm.com.br que você concluiu o desafio
 1. Iremos combinar uma data (via email) da sua apresentação (a ser realizada remotamente via Microsoft Teams)
 1. Realizar a apresentação final para os stackholders (banca) da ihm stefanini
  
@@ -65,7 +65,7 @@ Para realizar o desafio, você precisa **cumprir os seguintes requisitos**:
 ## 1.7 FAQ
 
 1. Pode usar Google, Kaggle, Stackoverflow à vontade, pois é assim que funciona na vida real!
-2. Será permitido tirar dúvidas com as pessoas da ihm stefanini, apenas no que concerne ao entendimento da dinâmica do desafio. Não é permitido tirar dúvidas técnicas. O contato será via email eduardo.magalhaes@ihm.com.br
+2. Será permitido tirar dúvidas com as pessoas da ihm stefanini, apenas no que concerne ao entendimento da dinâmica do desafio. Não é permitido tirar dúvidas técnicas. O contato será via email leonardo.oliveira@ihm.com.br e alexsander.costa@ihm.com.br
 
 ##--------------------------------------------------------------------------------------------------------------
 
@@ -105,4 +105,4 @@ Busque:
 
 ## 2.4 Agradecimentos e dúvidas
 
-Agradecemos o seu interesse de participar no desafio e qualquer dúvida, entre em contato pelo email com eduardo.magalhaes@ihm.com.br
+Agradecemos o seu interesse de participar no desafio e qualquer dúvida, entre em contato pelo email com leonardo.oliveira@ihm.com.br e alexsander.costa@ihm.com.br
